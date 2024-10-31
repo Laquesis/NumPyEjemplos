@@ -1,2 +1,3 @@
 # NumPyEjemplos
-Practica NumPy
+Práctica NumPy
+Carmen Ramírez García
